@@ -44,9 +44,7 @@ Sample images can be found in src/app/img
 ## Setup/Installation Requirements
 
 + Use Terminal (on Mac) or Windows PowerShell (on Windows), enter the following to clone the repository:
-<br>
-<code> git clone </code> https://github.com/kimlan1510/Cutthroat-Cavern-Web-App
-
+<br><code> git clone </code> https://github.com/kimlan1510/Cutthroat-Cavern-Web-App
 + Make account with firebase to obtain API credentials.
 + Import deck.json.
 + Create a file called firebase-api-keys.ts in src/app.
@@ -70,32 +68,29 @@ export const masterFirebaseConfig= {
 
 ## Known Bugs
 
-_The attack feature only works correctly of there are four attack cards in play._
-_Clicking on the character's profile picture alerts player to select an counter action card even though the players have not selected an action card._
-
-
+* The attack feature only works correctly of there are four attack cards in play.
+* Clicking on the character's profile picture alerts player to select an counter action card even though the players have not selected an action card.
 
 ## Support and contact details
 
-_Email us at
-
-julianflood@gmail.com,
-coreysnightout@gmail.com,
-jordloop@gmail.com,
-kimlan1510@gmail.com
-
-if you run into any issues_
+If you run into any issues, email us at:
+Julian Flood: julianflood@gmail.com,
+Corey Redding: coreysnightout@gmail.com,
+Jordan Loop: jordloop@gmail.com,
+Kimlan Nquyen: kimlan1510@gmail.com
 
 ## Technologies Used
 
-_HTML, CSS, TypeScript, Angular 4, Angular 2 CLI, Firebase_
-
-# AngularProject
-
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
-
+* HTML/CSS/SASS
+* TypeScript
+* Angular 4
+* Angular 2 CLI
+* Firebase
 
 ### License
+
+This game is based after Smirk and Dagger's Cuttthroat Caverns:
+<pre>http://www.smirkanddagger.com/cutthroat-base</pre>
 
 *MIT*
 
