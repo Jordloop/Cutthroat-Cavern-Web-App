@@ -90,7 +90,7 @@ Kimlan Nquyen: kimlan1510@gmail.com
 ### License
 
 This game is based after Smirk and Dagger's Cuttthroat Caverns:
-<pre>http://www.smirkanddagger.com/cutthroat-base</pre>
+http://www.smirkanddagger.com/cutthroat-base
 
 *MIT*
 
