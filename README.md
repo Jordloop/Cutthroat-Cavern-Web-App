@@ -1,3 +1,6 @@
+# About
+This is a group project a worked on with 3 others as a final project for the Angular course at Epicodus. Our goal was to recreate the card  game called Cutthroat Caverns. Having only 5 days to work and being very excited to make a game we jumped into coding without putting enough though into how the program should be made. As a result a lot of our functionality is crammed in a couple componenets. If I could go back an relive this project I would have divided the program up into components more logically. As one of the back end memebers of the team I spent most of my time writing code to get and put data into Firebase while the design team members wireframed and made animations. I have not updated the project (aside from About section of README.md) since we completed it as a testament to my level of understanding after programming for a couple months. 
+
 # _Cutthroat Caverns_
 
 #### _A group project for JavaScript course at Epicodus, July 19th 2017_
